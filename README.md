@@ -5,9 +5,9 @@
 
 - 🎓 Atualmente cursando Analise e desenvolvimento de sistemas(ADS) pelo **IFSP-Caraguatatuba**
 
-- 🕹Meu jogo preferido é **Baldur's Gate III**
-
 - ✏ Estou fazendo cursos sobre desenvolvimento de Jogos, principalmente pela **Udemy**
+
+- 🕹Meu jogo preferido é **Baldur's Gate III**
 
 - 🎮Se quiser entrar em contato para jogar algo me chama na [Steam](https://steamcommunity.com/profiles/76561198843782176)
 
