@@ -9,7 +9,7 @@
 
 - ✏ Estou fazendo cursos sobre desenvolvimento de Jogos, principalmente pela **Udemy**
 
-- 🎮Se quiser entrar em contato para jogar algo minha me chama na [Steam](https://steamcommunity.com/profiles/76561198843782176)
+- 🎮Se quiser entrar em contato para jogar algo me chama na [Steam](https://steamcommunity.com/profiles/76561198843782176)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
