@@ -9,6 +9,8 @@
 
 - 🕹Meu jogo preferido é **Baldur's Gate III**
 
+- 📞Email para contato: joao.jonny.vitor@gmail.com
+
 - 🎮Se quiser entrar em contato para jogar algo me chama na [Steam](https://steamcommunity.com/profiles/76561198843782176)
 
 <h3 align="left">Connect with me:</h3>
