@@ -7,8 +7,6 @@
 
 - ✏ Estou fazendo cursos sobre desenvolvimento de Jogos, principalmente pela **Udemy**
 
-- 🕹Meu jogo preferido é **Baldur's Gate III**
-
 - 📞Email para contato: joao.jonny.vitor@gmail.com
 
 - 🎮Se quiser entrar em contato para jogar algo me chama na [Steam](https://steamcommunity.com/profiles/76561198843782176)
