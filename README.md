@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-de-paula-oliveira-0b70a92a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão vitor de paula oliveira" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/Joao-Jonny-Vitor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão vitor de paula oliveira" height="30" width="40" /></a>
 <a href="https://instagram.com/joaovitor_jonny_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaovitor_jonny_" height="30" width="40" /></a>
 </p>
 
