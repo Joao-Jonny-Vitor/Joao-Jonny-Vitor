@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joao-jonny-vitor&label=Profile%20views&color=009405&style=flat" alt="joao-jonny-vitor" /> </p>
 
-- 🎓 Atualmente cursando Analise e desenvolvimento de sistemas(ADS) pelo **IFSP-Caraguatatuba**
+- 🎓 Formado em Analise e desenvolvimento de sistemas(ADS) pelo **IFSP-Caraguatatuba**
 
-- ✏ Estou fazendo cursos sobre desenvolvimento de Jogos, principalmente pela **Udemy**
+- 🎓 Atualmente cursando Game Development pela **FIAP**
+
+- ✏ Estou fazendo cursos adicionais sobre desenvolvimento de Jogos, principalmente pela **Udemy**
 
 - 📞Email para contato: joao.jonny.vitor@gmail.com
-
-- 🎮Se quiser entrar em contato para jogar algo me chama na [Steam](https://steamcommunity.com/profiles/76561198843782176)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
