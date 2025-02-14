@@ -1,4 +1,4 @@
-<h1 align="center">Salve, Me chamo João vitor mas pode me chamar de Jonny</h1>
+<h1 align="center">Olá, Me chamo João vitor mas pode me chamar de Jonny</h1>
 <h3 align="center">Sou um entusiasta de jogos buscando me tornar um Programador. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joao-jonny-vitor&label=Profile%20views&color=009405&style=flat" alt="joao-jonny-vitor" /> </p>
