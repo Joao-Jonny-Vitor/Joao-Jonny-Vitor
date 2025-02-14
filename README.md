@@ -1,13 +1,11 @@
 <h1 align="center">Salve, Me chamo João vitor mas pode me chamar de Jonny</h1>
-<h3 align="center">Sou um entusiasta de jogos buscando me tornar um game developer.</h3>
+<h3 align="center">Sou um entusiasta de jogos buscando me tornar um Programador. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joao-jonny-vitor&label=Profile%20views&color=009405&style=flat" alt="joao-jonny-vitor" /> </p>
 
 - 🎓 Formado em Analise e desenvolvimento de sistemas(ADS) pelo **IFSP-Caraguatatuba**
 
 - 🎓 Atualmente cursando Game Development pela **FIAP**
-
-- ✏ Estou fazendo cursos adicionais sobre desenvolvimento de Jogos, principalmente pela **Udemy**
 
 - 📞Email para contato: joao.jonny.vitor@gmail.com
 
